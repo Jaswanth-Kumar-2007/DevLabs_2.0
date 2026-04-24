@@ -173,3 +173,13 @@ Release Soon ...
 ## Resources for Week 4
 
 Release Soon ...
+
+## Contributions
+
+### Contribute Here to Get a Place Here ! 🥰
+
+<a href="https://github.com/Jaswanth-Kumar-2007/DevLabs_2.0/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Jaswanth-Kumar-2007/DevLabs_2.0" />
+</a>
+
+---
