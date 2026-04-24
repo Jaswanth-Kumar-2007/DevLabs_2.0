@@ -2,39 +2,40 @@
 
 ## Steps to Follow for the DevLabs
 
-### Fork the Repo
-
-```bash
-```
-
 ### Clone the Repo
 
 ```bash
+git clone https://github.com/Jaswanth-Kumar-2007/DevLabs_2.0.git
 ```
 
 ### Create the Branch with your Name
 
 ```bash
+git branch {Your_Name}
 ```
 
 ### Change the Main Branch to your Branch
 
 ```bash
+git checkout {Your_Name}
+```
+
+### Add your Changes
+
+```bash
+git add .
 ```
 
 ### Commit your Changes in Code
 
 ```bash
+git commit -m {What Change you Done}
 ```
 
 ### Push the Changes in the Code When you Update
 
 ```bash
-```
-
-### Push Changes to the Repo
-
-```bash
+git push -u origin  {Your_Name}
 ```
 
 ## Week 1
@@ -151,6 +152,10 @@ Source for You By Me :
 
 ---
 
+## Resources for Week 3
+
+Release Soon ...
+
 ## Week 4
 
 | Date     | Day       | React Activity                                                                 |
@@ -164,3 +169,7 @@ Source for You By Me :
 | 22 June  | Sunday    | Complete Frontend Implementation                                               |
 
 ---
+
+## Resources for Week 4
+
+Release Soon ...
