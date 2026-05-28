@@ -1,0 +1,334 @@
+[33mcommit d58f2ebc04d5b527265acadaa4aae5b0bdb2bf58[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Coding-Mind-K <codingmindedk@gmail.com>
+Date:   Thu May 28 15:45:33 2026 +0530
+
+    CodeRabbit Trial (#14)
+    
+    * Update index.html
+    
+    * Update style.css
+
+[33mcommit de78ac40e00f5c7861dc6c5cde07b4a060f74259[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Thu May 28 15:35:16 2026 +0530
+
+    Updated Index.html
+
+[33mcommit 4519e65f3433a55ae3287ed54fa0d932716e4044[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Thu May 28 15:32:53 2026 +0530
+
+    Updated Pages
+
+[33mcommit 90c6a50795c053f3273b55c9aa49a12d6c8711a8[m
+Author: Coding-Mind-K <codingmindedk@gmail.com>
+Date:   Thu May 28 09:57:39 2026 +0530
+
+    Update style.css (#13)
+    
+    * Update index.html
+    
+    * Update style.css
+
+[33mcommit ce00be91c2a77fe356004506ff64d8fb3696076b[m
+Author: Coding-Mind-K <codingmindedk@gmail.com>
+Date:   Thu May 28 09:54:51 2026 +0530
+
+    Update index.html (#12)
+
+[33mcommit 38a468da77ebd946743b91eb7c344e31289259b0[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Thu May 28 09:54:24 2026 +0530
+
+    Add checkout step in automerge workflow
+    
+    Added a step to checkout the repository before enabling auto merge.
+
+[33mcommit 92185a287907172102c120f71d5d1861ec60273a[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Thu May 28 09:52:26 2026 +0530
+
+    Modify PR workflow for auto merge settings
+    
+    Updated workflow to use pull_request_target event and removed redundant checkout step.
+
+[33mcommit 62e32858e963735f0ab377cd09b4e0fdcc01773c[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Thu May 28 09:49:45 2026 +0530
+
+    Fix formatting issue in manual.yml
+
+[33mcommit 1c0a1727b908de2e45f1531abc0894e4a70a6df5[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Thu May 28 09:45:16 2026 +0530
+
+    Add checkout step to automerge workflow
+
+[33mcommit d44390a456a885e0b0d01496335c8f05536151b2[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Thu May 28 09:43:06 2026 +0530
+
+    Refactor auto merge step in manual.yml
+    
+    Removed checkout step and updated auto merge command.
+
+[33mcommit f00fa0616d98e8d2af22452fd42ba36771a6397a[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Thu May 28 09:41:16 2026 +0530
+
+    Add checkout step before enabling auto merge
+
+[33mcommit d8335d253dd0cf152c348f3f80ebfd498a8876de[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Thu May 28 09:36:28 2026 +0530
+
+    Update manual.yml to trigger on opened PRs
+
+[33mcommit b44d85c1f3a0ae3af355d6c19aba3b2f531317e5[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Thu May 28 09:30:09 2026 +0530
+
+    Change manual workflow to auto merge PRs
+
+[33mcommit f2ada593da4575f897fd55fbd514988fc8a78717[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Wed May 27 12:12:27 2026 +0530
+
+    Updated Pages
+
+[33mcommit cb81fb595a3b23b167535c65e634c3c2c749ee8c[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Wed May 27 08:37:23 2026 +0530
+
+    Added Website
+
+[33mcommit e1ad5a3c775e58869a1d5fa9085ed4ab4277d5a7[m
+Merge: 7a0b779 697d112
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Tue May 26 10:49:33 2026 +0530
+
+    Merge pull request #11 from PoojaSDange/B24DS006
+    
+    Added profile txt file
+
+[33mcommit 697d11284993c7593e540905ef1522bdd0062222[m
+Author: Pooja_Dange <poojadange2024@gmail.com>
+Date:   Mon May 25 23:49:05 2026 +0530
+
+    Added profile txt file
+
+[33mcommit 7a0b7794ff092f0ab9f450034cd6f28b79069c03[m
+Merge: 3a4986f eb6158e
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Mon May 25 20:31:00 2026 +0530
+
+    Merge pull request #10 from utkchatterjee/main
+    
+    made a profile page
+
+[33mcommit eb6158e7ccef35d4e4d26d5e136935dbc183ec1d[m
+Author: utkchatterjee <utkchatterjee@gmail.com>
+Date:   Mon May 25 20:15:59 2026 +0530
+
+    made a profile page
+
+[33mcommit 3a4986f509c9a119e899bc1f8e7b226fd44c0691[m
+Merge: 552307c 5e185c0
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Mon May 25 19:07:18 2026 +0530
+
+    Merge pull request #9 from shubhamasare70-spec/B25EE053
+    
+    Added Profile Txt
+
+[33mcommit 5e185c035bee1366de2f796c8e3b0e9a33b80acc[m
+Author: Shubham Asare <shubhamasare70@gmail.com>
+Date:   Mon May 25 19:00:43 2026 +0530
+
+    Added Profile Txt
+
+[33mcommit 552307ce52b2cd9606e9d53ad21e1358617ba333[m
+Merge: 36afa28 b8dfd7f
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Mon May 25 17:18:38 2026 +0530
+
+    Merge pull request #8 from Manu2007Y/B25CS062
+    
+    Added profile Txt
+
+[33mcommit b8dfd7fdb4a7f13eabcbf27551ab890409bf2ff3[m
+Author: Manu2007Y <saimanoharyedla@gmail.com>
+Date:   Mon May 25 17:12:59 2026 +0530
+
+    Added profile Txt
+
+[33mcommit 36afa285088724bd9ec000155a811d13eefd2bdb[m
+Merge: f2ac9be 2945daf
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Mon May 25 16:11:44 2026 +0530
+
+    Merge pull request #7 from Vojanth-Raj/ID-B25DS016
+    
+    Edited Profile
+
+[33mcommit 2945dafdd86705eadc1e7bbd8a3ff4a6757471bc[m
+Author: Vojanth Raj <vojanthraj@gmail.com>
+Date:   Mon May 25 16:04:17 2026 +0530
+
+    Edited Profile
+
+[33mcommit f2ac9bef3b902a028fb82ddbef0c1154825bcd03[m
+Merge: 84a1c29 9fc9ed1
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Mon May 25 16:01:04 2026 +0530
+
+    Merge pull request #6 from Sakethram2005/B24DS034
+    
+    Added Saketh profile
+
+[33mcommit 9fc9ed14f0264612d78660b3e4dd15f88796725c[m
+Author: Thammandra Saketh Ram <thammandrasr@iitbhilai.ac.in>
+Date:   Mon May 25 15:43:59 2026 +0530
+
+    Added Saketh profile
+
+[33mcommit 84a1c2997b38498bc23f037489d319d75714144c[m
+Merge: d68bd13 97b4390
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Mon May 25 15:22:25 2026 +0530
+
+    Merge pull request #5 from Vojanth-Raj/ID-B25DS016
+    
+    Added Profile
+
+[33mcommit 97b4390371b09614535d1107c093f3a02937628d[m
+Author: Vojanth Raj <vojanthraj@gmail.com>
+Date:   Mon May 25 15:17:44 2026 +0530
+
+    Added Profile
+
+[33mcommit d68bd13bfa3aa8e1d79e89cae99f1fc4eb960975[m
+Merge: bee63f1 b15e244
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Mon May 25 15:06:22 2026 +0530
+
+    Merge pull request #4 from PreethiVardhan037/B24CS046
+    
+    Added a Profile txt file
+
+[33mcommit b15e244d239528c1dbfc825105cc935b2a8fa4d3[m
+Author: PreethiVardhan037 <tpvardhan0307@gmail.com>
+Date:   Mon May 25 14:45:22 2026 +0530
+
+    Added a Profile txt file
+
+[33mcommit bee63f13a6d14294baa9f458f535d31295dfd5c3[m
+Merge: 0a46ef5 21d2fd6
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Mon May 25 12:26:09 2026 +0530
+
+    Merge pull request #3 from gokulsanjayreddy/B25DS005
+    
+    added profile txt file
+
+[33mcommit 21d2fd6a426972732847c2f63762dfc86da3d189[m
+Author: gokulsanjayreddy <gokulsanjayreddy@gmail.com>
+Date:   Mon May 25 12:15:24 2026 +0530
+
+    added profile txt file
+
+[33mcommit 74af1196a5a242ec91a2edd183e2c611bff1ad39[m
+Author: gokulsanjayreddy <gokulsanjayreddy@gmail.com>
+Date:   Mon May 25 12:06:49 2026 +0530
+
+    added profile txt file
+
+[33mcommit 0a46ef52718a914c86b9d921bb7313e3f570a5e3[m
+Merge: 42b0cf3 9261a1d
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Mon May 25 10:46:23 2026 +0530
+
+    Merge pull request #1 from PIYUSH1608-ai/B25CS039
+    
+    Adding text file
+
+[33mcommit 42b0cf342a25e55f8bebaa5d7a23c1387c2fc574[m
+Merge: 292e74e 5031170
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Mon May 25 10:45:31 2026 +0530
+
+    Merge pull request #2 from buddi2007/B25CS040
+    
+    Added profile
+
+[33mcommit 9261a1d6864d92f0060e3bf1269a346b7b7f6c86[m
+Author: PIYUS1608-ai <piyushdas991@gmail.com>
+Date:   Mon May 25 10:40:57 2026 +0530
+
+    Adding text file
+
+[33mcommit 5031170eed7b708fd27e7ef821512949b270cb04[m
+Author: buddi2007 <buddi.reshmitha@gmail.com>
+Date:   Mon May 25 10:38:49 2026 +0530
+
+    Added profile
+
+[33mcommit 292e74e3ddb4091e2fbefde7e70118d8cbf996bf[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Mon May 25 10:08:59 2026 +0530
+
+    Edited index
+
+[33mcommit 72a5ad7a1e5b133c13a38a866e8a7db1bb6ea763[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Mon May 25 08:10:30 2026 +0530
+
+    Updated Schedule
+
+[33mcommit d5d5416a41b9ee498d9e3569a558c912e9737255[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Tue May 19 21:46:24 2026 +0530
+
+    Update section title for clarity on Git session
+
+[33mcommit 9d383c9698fb1416ce19af3b48b3d63ad31e8279[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Tue May 19 21:44:27 2026 +0530
+
+    Updated Resources and Readme
+
+[33mcommit aafdee73d9af40f2f2a40b0390722841831c95f1[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Sat May 16 21:15:29 2026 +0530
+
+    Updated Resources
+
+[33mcommit d48cf2619b3ac993bdecf802d42b197612cf4e72[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Fri May 8 23:16:05 2026 +0530
+
+    Added Resources
+
+[33mcommit fca8556e772dd216f3f0ab669855455b04ec718b[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Fri May 8 22:47:07 2026 +0530
+
+    Added Profile Section
+
+[33mcommit 57b663d9667072fe2954fbfc52838ff2e75bcf59[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Fri Apr 24 20:56:25 2026 +0530
+
+    Updated ReadMe
+
+[33mcommit 612012173caa35514d2d6eb6d34fa001e996391d[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Fri Apr 24 20:41:36 2026 +0530
+
+    Made Changes in ReadMe
+
+[33mcommit a37cdf2d5d1ba46ddc129c48b8cd7358ae97a66a[m
+Author: Jaswanth Kumar <jaswanthkumarkamireddi@gmail.com>
+Date:   Fri Apr 24 20:33:26 2026 +0530
+
+    Started the Repo
