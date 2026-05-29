@@ -1,0 +1,49 @@
+body {
+    margin:0;
+    padding:0;
+}
+.gridcontainer {
+    height: 1500px;
+    background-color:cornflowerblue;
+    display: grid;
+    grid-template-columns: 100px 1fr 100px;
+    grid-template-rows: 100px 3fr 1fr;
+    gap: 0.1rem;
+    color: white;
+    grid-template-areas:
+    "sidebar navbar image"
+    "sidebar hero hero"
+    "links links links";
+}
+.image {
+    grid-area:image;
+}
+.image img {
+    height:100px;
+    width:auto;
+    object-fit: cover;
+}
+.navbar {
+    grid-area: navbar;
+    background-color: aquamarine;
+    color:black;
+}
+.sidebar {
+    grid-area: sidebar;
+    background-color: rgb(0, 51, 103);
+}
+.hero {
+    grid-area: hero;
+    background-color: aliceblue;
+    background-image: url('bird.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.links {
+    grid-area: links;
+    background-color: black;
+    color: white;
+}
+.links a {
+    color:white;
+}
