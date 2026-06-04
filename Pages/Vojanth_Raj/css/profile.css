@@ -1,0 +1,127 @@
+body{
+    background: #ffffff;
+    height: 700px;
+}
+
+/*About photo... its position and size */
+
+.photo{
+    position: absolute;
+    top: -40px;
+    left: 600px;
+}
+.photo img{
+    width: 250px;
+    height: 250px;
+}
+
+/*The matter written in the page*/
+
+.text{
+    position: absolute;
+    top: 150px;
+    left:50px;
+    line-height: 0.7;
+}
+h2{
+    font-size: 40px;
+}
+h1{
+  color: #50fbdf;
+  font-size: 50px;
+}
+h3{
+    font-size: 18px;
+    color:#0bc973;
+}
+p{
+ color: #0a4d77;
+ width: 600px;
+ line-height: 1.8;
+ font-size: 20px;
+}
+.skill{
+    font-size: 45px;
+color: #790f0f;
+}
+.lan{
+    font-size: 30px;
+    color: rgb(121, 195, 17);
+    position: absolute;
+    top: 330px;
+    left: 0px;
+}
+
+.social{
+    font-size: 30px;
+    position: absolute;
+    top: 400px;
+    left: 1200px;
+    color: rgb(186, 166, 34);
+    line-height: 50px;
+
+}
+.fa-linkedin{
+    color: #0a66c2;
+}
+.fa-instagram{
+    background: linear-gradient(45deg,#f58529,#feda77,#dd2a7b,#8134af,#515bd4);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.fa-phone{
+    color: #25d366;
+}
+.fa-envelope{
+    color: #460865a1;
+}
+.details{
+position: absolute;
+top:400px;
+left: 1250px;
+line-height: 50px;
+
+}
+
+.lin{
+    text-decoration: none;
+    color: rgb(40, 203, 206);
+    position: absolute;
+    top: 463px;
+    left: 1250px;
+}
+.lin:hover{
+    color:blue;
+}
+.insta{
+    text-decoration: none;
+    color: rgb(186, 44, 67);
+    position: absolute;
+    top: 513px;
+    left: 1250px;
+}
+.insta:hover{
+    color: blue;
+}
+.num{
+    text-decoration: none;
+    color: lime;
+    position: absolute;
+    top: 563px;
+    left: 1250px;
+}
+.num:hover{
+color:blue;
+
+}
+.mail{
+    text-decoration: none;
+    color: rgb(134, 33, 148);
+    position: absolute;
+    top: 613px;
+    left: 1250px;
+}
+.mail:hover{
+    color:blue;
+}

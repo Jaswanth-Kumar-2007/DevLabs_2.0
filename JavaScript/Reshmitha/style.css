@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    font-family:Arial, sans-serif;
+    margin-top:100px;
+    background-color:#f0f8ff;
+}
+
+h1{
+    color:darkblue;
+}
+
+button{
+    padding:12px 20px;
+    font-size:18px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+#quote{
+    margin-top:20px;
+    font-size:22px;
+}

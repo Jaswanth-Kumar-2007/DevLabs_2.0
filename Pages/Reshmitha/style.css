@@ -42,3 +42,8 @@ a {
 a:hover {
     color: red;
 }
+
+.dark-mode{
+    background-color:black;
+    color:white;
+}
