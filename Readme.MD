@@ -154,23 +154,33 @@ Source for You By Me :
 
 ## Week 3
 
-Schedule Will Update Soon .....
+![Week3_Schedule](Assets/Week3.jpeg)
 
 ---
 
 ## Resources for Week 3
 
-Release Soon ...
+- [React Official Docs](https://react.dev/learn)
+
+- [React in 100 Seconds - Fireship](https://youtu.be/Tn6-PIqc4UM?si=JkjyTN_vLoAsegyM)
+
+- [React Crash Course - Traversy Media](https://youtu.be/LDB4uaJ87e0?si=PrWjXoK8RAIMGw52)
+
+- [React Tutorial - W3 Schools](https://www.w3schools.com/react/)
 
 ## Week 4
 
-Schedule Will Update Soon .....
+![Week4_Schedule](Assets/Week4.jpeg)
 
 ---
 
 ## Resources for Week 4
 
-Release Soon ...
+- [React Router Docs](https://reactrouter.com/6.28.0/start/tutorial)
+
+- [React Hooks Explained - Web Dev Simplified](https://youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h&si=J6MMVm2eoEpLdKOF)
+
+- [React Router V6 in 45 Minutes](https://youtu.be/Ul3y1LXxzdU?si=_LsJunbZLZW1hcsa)
 
 ## Contributions
 
