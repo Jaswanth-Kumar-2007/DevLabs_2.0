@@ -83,6 +83,14 @@ body{
     background: #d1d5db;
 }
 
+.completed{
+    background-color: rgba(144, 238, 144, 0.897);
+}
+
+.incompleted{
+    background-color: rgba(240, 128, 128, 0.853);
+}
+
 @media (max-width:480px) {
     #container {
         display: flex;

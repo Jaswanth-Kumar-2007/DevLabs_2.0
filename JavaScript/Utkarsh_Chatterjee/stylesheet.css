@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    padding:0;
+    background-size: cover;
+    background-color: rgb(177, 126, 59);
+}
+.Fetching{
+    background-color: bisque;
+    color: brown;
+}
+.block{
+    padding: 20px;
+    background-color: blanchedalmond;
+    width:500px;
+    height:500px;
+    display:grid;
+    grid-template-columns: 1fr 200px;
+    grid-template-rows: 1fr 100px;
+    color:brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Quote{
+    font-size:larger;
+    grid-column:-1/1;
+}
+#Author{
+    font-size: large;
+    grid-column-start:2;
+    grid-row-start:2;
+}

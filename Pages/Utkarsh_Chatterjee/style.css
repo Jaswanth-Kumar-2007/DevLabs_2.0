@@ -15,6 +15,20 @@ body {
     "sidebar hero hero"
     "links links links";
 }
+#Quote{
+    color: rgb(133, 87, 26);
+    font-weight: bold;
+    font-size: large;
+}
+.dark #Quote
+{
+    color: rgb(201, 158, 102);
+}
+.dark .gridcontainer {
+    background-color:rgb(19, 4, 53);
+    background-color:aqua;
+    color:antiquewhite;
+}
 .image {
     grid-area:image;
 }
@@ -23,25 +37,58 @@ body {
     width:auto;
     object-fit: cover;
 }
+
 .navbar {
+    padding:3px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
     grid-area: navbar;
     background-color: aquamarine;
     color:black;
 }
+.navbar #Darkmode
+{
+    background-color:white;
+    border-radius: 50%;
+    height:30px;
+}
+.dark .navbar {
+    background-color: black;
+    color:aquamarine;
+}
 .sidebar {
+    padding:3px;
     grid-area: sidebar;
     background-color: rgb(0, 51, 103);
 }
+.dark .sidebar {
+    grid-area: sidebar;
+    background-color: rgb(3, 44, 94);
+    color:aliceblue;
+}
 .hero {
+    padding:3px;
     grid-area: hero;
     background-color: aliceblue;
+    color:black;
     background-image: url('bird.jpg');
     background-size: cover;
     background-position: center;
 }
+.dark .hero {
+    background-color: rgb(18, 87, 148);
+    color:beige;
+    background-image:url('dark.jpg');
+}
 .links {
+    padding:3px;
     grid-area: links;
     background-color: black;
+    color: white;
+}
+.dark .links {
+    background-color: rgb(3, 11, 108);
     color: white;
 }
 .links a {
